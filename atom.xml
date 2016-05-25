@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2016-05-25T13:29:31.207Z</updated>
+  <updated>2016-05-25T14:26:33.006Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -16,27 +16,11 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>page</title>
-    <link href="http://yoursite.com/2016/05/25/page/"/>
-    <id>http://yoursite.com/2016/05/25/page/</id>
-    <published>2016-05-25T13:29:31.000Z</published>
-    <updated>2016-05-25T13:29:31.207Z</updated>
-    
-    <content type="html"></content>
-    
-    <summary type="html">
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
     <title>Hello World</title>
     <link href="http://yoursite.com/2016/05/25/hello-world/"/>
     <id>http://yoursite.com/2016/05/25/hello-world/</id>
     <published>2016-05-25T13:29:31.000Z</published>
-    <updated>2016-05-25T13:57:20.230Z</updated>
+    <updated>2016-05-25T14:26:33.006Z</updated>
     
     <content type="html">&lt;h2 id=&quot;汉语测试-满汉全席&quot;&gt;&lt;a href=&quot;#汉语测试-满汉全席&quot; class=&quot;headerlink&quot; title=&quot;汉语测试-满汉全席&quot;&gt;&lt;/a&gt;汉语测试-满汉全席&lt;/h2&gt;&lt;h3 id=&quot;code-test&quot;&gt;&lt;a href=&quot;#code-test&quot; class=&quot;headerlink&quot; title=&quot;code-test&quot;&gt;&lt;/a&gt;code-test&lt;/h3&gt;&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;$ &lt;span class=&quot;built_in&quot;&gt;echo&lt;/span&gt; -n  &lt;span class=&quot;string&quot;&gt;&quot;hello MHQX!&quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
 &lt;h3 id=&quot;List-test&quot;&gt;&lt;a href=&quot;#List-test&quot; class=&quot;headerlink&quot; title=&quot;List-test&quot;&gt;&lt;/a&gt;List-test&lt;/h3&gt;&lt;blockquote&gt;
@@ -47,7 +31,7 @@
 &lt;/ul&gt;
 &lt;/blockquote&gt;
 &lt;h2 id=&quot;缘由（中文显示测试）&quot;&gt;&lt;a href=&quot;#缘由（中文显示测试）&quot; class=&quot;headerlink&quot; title=&quot;缘由（中文显示测试）&quot;&gt;&lt;/a&gt;缘由（中文显示测试）&lt;/h2&gt;&lt;p&gt;   该页面是如何生成的？&lt;/p&gt;
-&lt;p&gt;   在5月份有幸听到了《九九八十一》{满汉全席} ，很好听 ， 画面挺好看的，于是就有了做个页面的想法，因为我本身就想做个画面轮询，页面有类似新浪微博音乐播放器的东西&lt;br&gt;正好满汉全席的资料丰富（有画面，人家也唱歌），于是就这样吖，代码是托管在github上生成的静态页面，源代码开放，基于GPL，无任何商用···&lt;br&gt;   页面有许多需要变更的地方，也有非常明显的bug，但是每月争取改一点···平时加班很多··&lt;/p&gt;
+&lt;p&gt;   在5月份有幸在B站听到了《九九八十一》{满汉全席} ，很好听 ， 画面挺好看的，于是就有了做个页面的想法，因为我本身就想做个画面轮询，页面有类似新浪微博音乐播放器的东西，恰好官博里面说一周年生日且资料丰富（有画面可以做背景图，人家也唱歌正好做个播放器放音乐），于是就这样吖，代码是托管在github上生成的静态页面，源代码开放，基于GPL，无任何商用···&lt;br&gt;   页面有许多需要变更的地方，也有非常明显的bug，但是每月争取改一点···平时加班很多··&lt;br&gt;   一周年庆，来不及，但是至少到今年年底好歹有个东西出来么，就酱紫&lt;br&gt;   PV &lt;a href=&quot;http://weibo.com/315152930&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;墨兰花语&lt;/a&gt;  制作的很好看哩&lt;/p&gt;
 &lt;h2 id=&quot;说明&quot;&gt;&lt;a href=&quot;#说明&quot; class=&quot;headerlink&quot; title=&quot;说明&quot;&gt;&lt;/a&gt;说明&lt;/h2&gt;&lt;p&gt;   由于代码是托管在github，写在我的仓库下，生成的PAGE必须和用户名一致，一期写完后，会在github申请manhan的用户名，那么生成方式就是manhan.github.io&lt;br&gt;   也可以申请一个域名然后直接链接到这个manhan.github.io上，就是&lt;a href=&quot;http://xxx.space等等&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;http://xxx.space等等&lt;/a&gt;&lt;/p&gt;
 &lt;h2 id=&quot;计划区&quot;&gt;&lt;a href=&quot;#计划区&quot; class=&quot;headerlink&quot; title=&quot;计划区&quot;&gt;&lt;/a&gt;计划区&lt;/h2&gt;&lt;ul&gt;
 &lt;li&gt;文章页面半透明&lt;/li&gt;
@@ -59,7 +43,7 @@
 &lt;/li&gt;
 &lt;li&gt;&lt;p&gt;也感谢开源项目各种的支持，提供了非常好用的源码，轮询图片js调用帅呆啦&lt;/p&gt;
 &lt;/li&gt;
-&lt;li&gt;&lt;p&gt;反正网页还没成型，胡说八糟乱写一通的···到时候全部删除&lt;/p&gt;
+&lt;li&gt;&lt;p&gt;反正网页离成型的路的历程还有很远很远，胡说八糟乱写一通的···到时候全部删除&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;&lt;p&gt;L君 2016/05/25&lt;/p&gt;
 &lt;/li&gt;
@@ -74,6 +58,22 @@
     
     
       <category term="测试" scheme="http://yoursite.com/tags/%E6%B5%8B%E8%AF%95/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>page</title>
+    <link href="http://yoursite.com/2016/05/25/page/"/>
+    <id>http://yoursite.com/2016/05/25/page/</id>
+    <published>2016-05-25T13:29:31.000Z</published>
+    <updated>2016-05-25T13:29:31.207Z</updated>
+    
+    <content type="html"></content>
+    
+    <summary type="html">
+    
+    </summary>
+    
     
   </entry>
   
